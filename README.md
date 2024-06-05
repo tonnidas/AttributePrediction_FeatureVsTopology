@@ -2,6 +2,7 @@
 
 Please cite our article if you utilize this repository, 
 
+```
 @inproceedings{tonni2024assessing,
 	title        = {Assessing information influence for node attribute
 prediction},
@@ -10,3 +11,5 @@ prediction},
 	booktitle    = {2024 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE)},
 	volume       = 2024
 }
+
+
